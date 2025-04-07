@@ -141,7 +141,7 @@
     </div>
     <!-- cart -->
     <div class="flex gap-9 pt-12">
-      <div class="p-8 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
+      <div class="p-5 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
         <div class="flex items-start justify-between">
           <img class="rounded-full w-[72px] h-[72px]" src="../assets/img/man1.jpg" alt="">
           <div class="flex items-center gap-0.5 border border-[#43A55D] px-2.5 py-0.5">
@@ -149,26 +149,85 @@
             <p class="text-[#43A55D] font-semibold tracking-[0.073px]">120% Hike</p>
           </div>
         </div>
-        <h2 class="text-xl font-semibold leading-8 mt-1.5">Shaumaya Qha</h2>
-        <p class="leading-8 text-base">Software Engineer</p>
-        <p class="text-[#4D607D] text-base mt-2.5">Apart from regular live classes, I
-          was assigned with a Mentor
-          someone from Microsoft and he
-          guided me very well through out
-          the course.</p>
+        <div>
+          <h2 class="text-xl font-semibold leading-8 mt-1.5">Shaumaya Qha</h2>
+          <p class="leading-8 text-base">Software Engineer</p>
+          <p class="text-[#4D607D] text-base mt-2.5 leading-6">Apart from regular live classes, I was assigned with a
+            Mentor
+            someone from Microsoft and he guided me very well through out the course.</p>
+        </div>
+        <div class="flex items-center mt-9 gap-2">
+          <img src="../assets/img/jpMorgan.png" alt="">
+          <img src="../assets/img/arrow-right.png" alt="">
+          <img src="../assets/img/Walmart_logo.png" alt="">
+        </div>
+        <div class="flex gap-2.5 items-center mt-3.5">
+          <img src="../assets/img/linkedin.png" alt="">
+          <a href="#" class="text-[#006DD9] text-lg">Read full review</a>
+        </div>
       </div>
-      <div class="p-8 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
-        <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
-        <h2 class="text-[21px] font-semibold">Guaranteed job referral</h2>
-        <p class="text-[#6F6B80] text-base">Our program seeks to eliminate financial risk in the upskilling journey with
-          our guaranteed Job referrals option</p>
+
+      <div class="p-5 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
+        <div class="flex items-start justify-between">
+          <img class="rounded-full w-[72px] h-[72px]" src="../assets/img/man2.jpg" alt="">
+          <div class="flex items-center gap-0.5 border border-[#43A55D] px-2.5 py-0.5">
+            <img src="../assets/img/trending-up-green.png" alt="">
+            <p class="text-[#43A55D] font-semibold tracking-[0.073px]">90% Hike</p>
+          </div>
+        </div>
+        <div>
+          <h2 class="text-xl font-semibold leading-8 mt-1.5">Subhangi Duhan</h2>
+          <p class="leading-8 text-base">Software Researcher</p>
+          <p class="text-[#4D607D] text-base mt-2.5 leading-6">My focus and expectations was
+            more into System Design and I
+            have learned a lot of it, Specially
+            High Level design and that helped
+            me to crack Microsoft.</p>
+        </div>
+        <div class="flex items-center mt-9 gap-2">
+          <img src="../assets/img/jpMorgan.png" alt="">
+          <img src="../assets/img/arrow-right.png" alt="">
+          <img src="../assets/img/Microsoft-logo.png" alt="">
+        </div>
+        <div class="flex gap-2.5 items-center mt-3.5">
+          <img src="../assets/img/linkedin.png" alt="">
+          <a href="#" class="text-[#006DD9] text-lg">Read full review</a>
+        </div>
       </div>
-      <div class="p-8 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
-        <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
-        <h2 class="text-[21px] font-semibold">Crack FAANG Interview</h2>
-        <p class="text-[#6F6B80] text-base">Interact and Learn from mentors working in top product based companies to
-          crack interviews for your dream role.</p>
+
+      <div class="p-5 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
+        <div class="flex items-start justify-between">
+          <img class="w-[72px] h-[72px]" src="../assets/img/man3.png" alt="">
+          <div class="flex items-center gap-0.5 border border-[#43A55D] px-2.5 py-0.5">
+            <img src="../assets/img/trending-up-green.png" alt="">
+            <p class="text-[#43A55D] font-semibold tracking-[0.073px]">80% Hike</p>
+          </div>
+        </div>
+        <div>
+          <h2 class="text-xl font-semibold leading-8 mt-1.5">Paras Yadav</h2>
+          <p class="leading-8 text-base">Software Tester</p>
+          <p class="text-[#4D607D] text-base mt-2.5 leading-6">Consistency is the key, that I have
+            learned from my Mentor at
+            My_Tutor. He usually motivates
+            me to be consistent is class and
+            solving problems.</p>
+        </div>
+        <div class="flex items-center mt-9 gap-2">
+          <img src="../assets/img/commscope.png" alt="">
+          <img src="../assets/img/arrow-right.png" alt="">
+          <img src="../assets/img/cohesity-logo.png" alt="">
+        </div>
+        <div class="flex gap-2.5 items-center mt-3.5">
+          <img src="../assets/img/linkedin.png" alt="">
+          <a href="#" class="text-[#006DD9] text-lg">Read full review</a>
+        </div>
       </div>
+    </div>
+
+    <div class="flex justify-center pt-16">
+      <button
+        class="bg-[#1b99d4] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2] flex items-center gap-[15px]">Connect
+        Now <img src="../assets/img/right-arrow.png" alt=""></button>
     </div>
   </section>
 </template>
