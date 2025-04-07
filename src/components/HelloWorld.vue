@@ -156,9 +156,6 @@
           someone from Microsoft and he
           guided me very well through out
           the course.</p>
-        <div>
-          <img src="../assets/img/" alt="">
-        </div>
       </div>
       <div class="p-8 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
         <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
