@@ -23,9 +23,9 @@
 
     <!-- Header body-->
     <div
-      class="bg-[url('./src/assets/img/wave-haikei.svg')] bg-no-repeat bg-cover bg-center px-[72px] text-white relative py-12">
+      class="bg-[url('/wave-haikei.svg')] bg-no-repeat bg-cover bg-center px-[72px] text-white relative py-12">
       <div>
-        <img class="absolute bottom-0 left-1/3 -translate-x-1/5 h-[550px]" src="../assets/img/header-man.png" alt="">
+        <img class="absolute bottom-0 left-1/2 -translate-x-1/2" src="../assets/img/header-man.png" alt="">
       </div>
       <div class="flex justify-between items-center">
         <div class="">
@@ -72,6 +72,6 @@
   </section>
   <!-- Header end -->
 
-   
+
 </template>
 
