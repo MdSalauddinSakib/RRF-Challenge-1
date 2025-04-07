@@ -21,7 +21,7 @@
       </div>
     </div>
 
-    <!-- Header -->
+    <!-- Header body-->
     <div
       class="bg-[url('./src/assets/img/wave-haikei.svg')] bg-no-repeat bg-cover bg-center px-[72px] text-white relative py-12">
       <div>
@@ -70,5 +70,8 @@
       </div>
     </div>
   </section>
+  <!-- Header end -->
+
+   
 </template>
 
