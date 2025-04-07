@@ -131,4 +131,47 @@
       </div>
     </div>
   </section>
+  <!-- RELATED COURSES End -->
+
+  <!-- Alumni Section -->
+  <section class="container bg-[#F8FBFB] py-[70px]">
+    <div class="text-center">
+      <p class="text-[#1B99D4] text-base font-semibold tracking-[1.6px]">Our Alumni Placed</p>
+      <h2 class="text-4xl font-semibold mt-3.5 text-[#231F40]">Explore Our Alumni & Connect With Them</h2>
+    </div>
+    <!-- cart -->
+    <div class="flex gap-9 pt-12">
+      <div class="p-8 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
+        <div class="flex items-start justify-between">
+          <img class="rounded-full w-[72px] h-[72px]" src="../assets/img/man1.jpg" alt="">
+          <div class="flex items-center gap-0.5 border border-[#43A55D] px-2.5 py-0.5">
+            <img src="../assets/img/trending-up-green.png" alt="">
+            <p class="text-[#43A55D] font-semibold tracking-[0.073px]">120% Hike</p>
+          </div>
+        </div>
+        <h2 class="text-xl font-semibold leading-8 mt-1.5">Shaumaya Qha</h2>
+        <p class="leading-8 text-base">Software Engineer</p>
+        <p class="text-[#4D607D] text-base mt-2.5">Apart from regular live classes, I
+          was assigned with a Mentor
+          someone from Microsoft and he
+          guided me very well through out
+          the course.</p>
+        <div>
+          <img src="../assets/img/" alt="">
+        </div>
+      </div>
+      <div class="p-8 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
+        <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
+        <h2 class="text-[21px] font-semibold">Guaranteed job referral</h2>
+        <p class="text-[#6F6B80] text-base">Our program seeks to eliminate financial risk in the upskilling journey with
+          our guaranteed Job referrals option</p>
+      </div>
+      <div class="p-8 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
+        <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
+        <h2 class="text-[21px] font-semibold">Crack FAANG Interview</h2>
+        <p class="text-[#6F6B80] text-base">Interact and Learn from mentors working in top product based companies to
+          crack interviews for your dream role.</p>
+      </div>
+    </div>
+  </section>
 </template>
