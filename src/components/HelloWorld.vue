@@ -25,7 +25,7 @@
     <div
       class="bg-[url('/wave-haikei.svg')] bg-no-repeat bg-cover bg-center px-[72px] text-white relative py-12">
       <div>
-        <img class="absolute bottom-0 left-1/2 -translate-x-1/2" src="../assets/img/header-man.png" alt="">
+        <img class="absolute bottom-0 left-1/3 -translate-x-1/4 h-[550px]" src="../assets/img/header-man.png" alt="">
       </div>
       <div class="flex justify-between items-center">
         <div class="">
@@ -64,8 +64,8 @@
             </select>
           </form>
           <button
-            class="bg-[#1b99d4] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2]">Get
-            in Touch</button>
+            class="bg-[#1b99d4] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2] flex items-center gap-[15px]">Get
+            in Touch <img src="../assets/img/right-arrow.png" alt=""></button>
         </div>
       </div>
     </div>
