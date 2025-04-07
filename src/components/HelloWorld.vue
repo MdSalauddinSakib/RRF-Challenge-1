@@ -1,4 +1,3 @@
-
 <template>
   <!-- Header -->
   <section class="">
@@ -22,8 +21,7 @@
     </div>
 
     <!-- Header body-->
-    <div
-      class="bg-[url('/wave-haikei.svg')] bg-no-repeat bg-cover bg-center px-[72px] text-white relative py-12">
+    <div class="bg-[url('/wave-haikei.svg')] bg-no-repeat bg-cover bg-center px-[72px] text-white relative py-12">
       <div>
         <img class="absolute bottom-0 left-1/3 -translate-x-1/4 h-[550px]" src="../assets/img/header-man.png" alt="">
       </div>
@@ -72,6 +70,31 @@
   </section>
   <!-- Header end -->
 
-
+  <!-- trending -->
+  <section class="container my-[70px]">
+    <div class="flex justify-around shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)] py-8 px-10">
+      <div class="flex gap-5">
+        <img class="bg-[#F4F6F9] p-2.5 rounded-full" src="../assets/img/trending-up.png" alt="">
+        <div>
+          <h2 class="text-[#27B94E] text-3xl font-bold items-center">126%</h2>
+          <p class="text-[#4D607D]">170% Average Salary Hike</p>
+        </div>
+      </div>
+      <div class="flex gap-5">
+        <img class="bg-[#F4F6F9] p-2.5 rounded-full" src="../assets/img/Briefcase.png" alt="">
+        <div>
+          <h2 class="text-[#FFA41B] text-3xl font-bold items-center">100+</h2>
+          <p class="text-[#4D607D]">Job Placments</p>
+        </div>
+      </div>
+      <div class="flex gap-5">
+        <img class="bg-[#F4F6F9] p-2.5 rounded-full" src="../assets/img/ChalkboardTeacher.png" alt="">
+        <div>
+          <h2 class="text-[#D60000] text-3xl font-bold items-center">Live</h2>
+          <p class="text-[#4D607D]">Interactive Sessions</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- trending end -->
 </template>
-
