@@ -97,4 +97,38 @@
     </div>
   </section>
   <!-- trending end -->
+
+  <!-- RELATED COURSES -->
+  <section class="container bg-[#F8FBFB] py-[70px]">
+    <div class="text-center">
+      <p class="text-[#1B99D4] text-base font-semibold tracking-[1.6px]">RELATED COURSES</p>
+      <h2 class="text-4xl font-semibold mt-3.5">Why Join this Program ?</h2>
+    </div>
+    <!-- cart -->
+    <div class="flex gap-9 pt-12">
+      <div
+        class="flex flex-col items-center gap-6 text-center p-8 bg-white rounded-2xl shadow-[0.914px_4.57px_45.7px_0px_rgba(84,99,122,0.10)]">
+        <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
+        <h2 class="text-[21px] font-semibold">Real Work Experience</h2>
+        <p class="text-[#6F6B80] text-base">Work with companies directly on software development projects to master your
+          skills
+          and build a strong
+          project portfolio to get your.</p>
+      </div>
+      <div
+        class="flex flex-col items-center gap-6 text-center p-8 bg-white rounded-2xl shadow-[0.914px_4.57px_45.7px_0px_rgba(84,99,122,0.10)]">
+        <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
+        <h2 class="text-[21px] font-semibold">Guaranteed job referral</h2>
+        <p class="text-[#6F6B80] text-base">Our program seeks to eliminate financial risk in the upskilling journey with
+          our guaranteed Job referrals option</p>
+      </div>
+      <div
+        class="flex flex-col items-center gap-6 text-center p-8 bg-white rounded-2xl shadow-[0.914px_4.57px_45.7px_0px_rgba(84,99,122,0.10)]">
+        <img class="bg-[#1B99D4] p-4 rounded-full" src="../assets/img/hourglass.png" alt="">
+        <h2 class="text-[21px] font-semibold">Crack FAANG Interview</h2>
+        <p class="text-[#6F6B80] text-base">Interact and Learn from mentors working in top product based companies to
+          crack interviews for your dream role.</p>
+      </div>
+    </div>
+  </section>
 </template>
