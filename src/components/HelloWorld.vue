@@ -448,7 +448,8 @@
       </div>
 
       <div class="flex flex-col justify-center border border-[#D9D9D9] rounded-xl p-8">
-        <h2 class="text-base text-[#646464] mb-[27px]">We are driven by the idea of program affordability. So, we give you several
+        <h2 class="text-base text-[#646464] mb-[27px]">We are driven by the idea of program affordability. So, we give
+          you several
           financial options to manage
           and budget the expenses of your course.</h2>
         <p class="text-[27px] text-[#2C2C2C] font-bold">Starting at ₹ 120,000 + GST</p>
@@ -457,6 +458,42 @@
           <a href="#"
             class="bg-[#1b99d4] inline-block text-[16px] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2]">Apply
             Now</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Course Highlights Section end -->
+
+  <!-- Next Cohort Details Section -->
+  <section class="container py-[70px]">
+    <h2 class="text-center text-4xl font-semibold mb-[25px]">Next Cohort Details</h2>
+    <div class="border border-[#D9D9D9] rounded-xl">
+      <div class="text-[#272727] flex items-center justify-around py-6 ">
+        <p class="text-6xl font-bold">19 <sup><sup><span
+                class="text-sm font-medium tracking-[4px]">MAR</span></sup></sup>
+        </p>
+        <p class="text-2xl font-medium">Weekend Batch [Sat - Sun]</p>
+        <a href="#"
+          class="bg-[#1b99d4] text-[16px] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2]">Enroll
+          Now</a>
+      </div>
+      <hr class="border-t-2 border-dashed border-[#777d8c33]">
+      <div class="flex justify-around py-[30px]">
+        <div>
+          <p class="text-[#272727] text-base font-medium">Batch</p>
+          <p class="text-[#777D8C] text-lg">Morning</p>
+        </div>
+        <div>
+          <p class="text-[#272727] text-base font-medium">Time</p>
+          <p class="text-[#777D8C] text-lg">09:00 am-12:00 pm</p>
+        </div>
+        <div>
+          <p class="text-[#272727] text-base font-medium">Seat</p>
+          <p class="text-[#777D8C] text-lg">Available</p>
+        </div>
+        <div>
+          <p class="text-[#272727] text-base font-medium">Venue</p>
+          <p class="text-[#777D8C] text-lg">Virtual Hall</p>
         </div>
       </div>
     </div>
