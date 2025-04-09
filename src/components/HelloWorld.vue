@@ -293,7 +293,7 @@
 
       <!-- Apply for Counselling Form -->
       <div
-        class="bg-white p-8 shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)] w-[800px] text-[#727695] border-b-[5px] border-[#1B99D4]">
+        class="bg-white p-8 shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)] text-[#727695] border-b-[5px] border-[#1B99D4]">
         <img class="" src="../assets/img/applying.jpg" alt="">
         <form action="" class="flex flex-col gap-[30px] mt-[30px]">
           <input
@@ -327,7 +327,78 @@
     <div class="flex justify-center">
       <a class=" bg-white text-[#1B99D4] p-4 mt-10 flex items-center flex items-center justify-between w-[215px] rounded-[5px] border border-[#1B99D4] hover:bg-[#1B99D4] hover:text-white"
         href="#">
-        <img class="w-[20px]" src="../assets/img/download-blue.png" alt=""> Download Brochure</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" fill="none">
+          <path
+            d="M13.125 9.375V11.875C13.125 12.2065 12.9933 12.5245 12.7589 12.7589C12.5245 12.9933 12.2065 13.125 11.875 13.125H3.125C2.79348 13.125 2.47554 12.9933 2.24112 12.7589C2.0067 12.5245 1.875 12.2065 1.875 11.875V9.375"
+            stroke="#1B99D4" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M4.375 6.25L7.5 9.375L10.625 6.25" stroke="#1B99D4" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M7.5 9.375V1.875" stroke="#1B99D4" stroke-linecap="round" stroke-linejoin="round" />
+        </svg> Download Brochure</a>
     </div>
+  </section>
+  <!-- curriculum Section end -->
+
+  <!-- Hands-on Projects Section -->
+  <section class="container py-[70px]">
+    <div class="flex justify-between items-center">
+      <div>
+        <h2 class="text-[48px] font-semibold mb-[19px]">Hands-on Projects</h2>
+        <p class="leading-[32px] text-[#666666] text-base">Find out how our Mentor transformed their careers by giving
+          <br>
+          Hands on Projects.
+        </p>
+        <div class="mt-[25px] flex gap-[27px]">
+          <div
+            class="text-center text-white bg-[#20AD96] rounded-[5px] shadow-[0px_7px_29px_0px_rgba(99,99,110,0.20)] flex items-center justify-center">
+            <p class="text-[28px] font-bold leading-[23px] px-[61px] py-[10px]">10+ <br> <span
+                class="text-base font-normal">Projects</span></p>
+          </div>
+          <div
+            class="text-center text-white bg-[#9747FF] rounded-[5px] shadow-[0px_7px_29px_0px_rgba(99,99,110,0.20)] flex items-center justify-center">
+            <p class="text-[28px] font-bold leading-[23px] px-[61px] py-[10px]">10+ <br> <span
+                class="text-base font-normal">Projects</span></p>
+          </div>
+        </div>
+        <!-- arrow -->
+        <div class="flex items-center gap-[16px] mt-[37px]">
+          <div
+            class="p-[30px] rounded-full shadow-[0px_0px_16px_4px_rgba(126,126,126,0.1)] hover:shadow-[0px_0px_16px_4px_rgba(126,126,126,0.4)] transition-all duration-300 cursor-pointer">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+              <path
+                d="M15.0005 9.00021H3.83047L8.71047 13.8802C9.10047 14.2702 9.10047 14.9102 8.71047 15.3002C8.32047 15.6902 7.69047 15.6902 7.30047 15.3002L0.710469 8.71021C0.320469 8.32021 0.320469 7.69021 0.710469 7.30021L7.29047 0.700215C7.68047 0.310215 8.31047 0.310215 8.70047 0.700215C9.09047 1.09021 9.09047 1.72021 8.70047 2.11021L3.83047 7.00021H15.0005C15.5505 7.00021 16.0005 7.45021 16.0005 8.00021C16.0005 8.55021 15.5505 9.00021 15.0005 9.00021Z"
+                fill="#323232" />
+            </svg>
+          </div>
+
+          <div
+            class="p-[30px] rounded-full shadow-[0px_0px_16px_4px_rgba(126,126,126,0.1)] hover:shadow-[0px_0px_16px_4px_rgba(126,126,126,0.4)] transition-all duration-300 cursor-pointer">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+              <path
+                d="M1.41797 9.00021H12.588L7.70797 13.8802C7.31797 14.2702 7.31797 14.9102 7.70797 15.3002C8.09797 15.6902 8.72796 15.6902 9.11796 15.3002L15.708 8.71021C16.098 8.32021 16.098 7.69021 15.708 7.30021L9.12796 0.700215C8.73796 0.310215 8.10797 0.310215 7.71797 0.700215C7.32797 1.09021 7.32797 1.72021 7.71797 2.11021L12.588 7.00021H1.41797C0.867969 7.00021 0.417969 7.45021 0.417969 8.00021C0.417969 8.55021 0.867969 9.00021 1.41797 9.00021Z"
+                fill="#323232" />
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <!-- Authentication -->
+      <div class="flex flex-col gap-5 p-10 bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)]">
+        <h2 class="text-[#727695] text-[22px] font-bold">Authentication</h2>
+        <img class="w-2/3" src="../assets/img/symantec.png" alt="">
+        <p class="text-[#646464] font-base leading-[23px]">Create authentication technology to give access, Correspond
+          <br> to those stored in a
+          database of authorized
+          users.
+        </p>
+        <div class="flex gap-[22px] items-center ">
+          <p class="text-[#646464] text-lg font-medium">Tools:</p>
+          <img src="../assets/img/Frame1.png" alt="">
+          <img src="../assets/img/Frame2.png" alt="">
+          <img src="../assets/img/Frame3.png" alt="">
+          <img src="../assets/img/Frame4.png" alt="">
+        </div>
+      </div>
+    </div>
+
   </section>
 </template>
