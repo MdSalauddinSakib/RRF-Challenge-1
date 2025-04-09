@@ -134,7 +134,7 @@
   <!-- RELATED COURSES End -->
 
   <!-- Alumni Section -->
-  <section class="container bg-[#F8FBFB] py-[70px]">
+  <section class="container py-[70px]">
     <div class="text-center">
       <p class="text-[#1B99D4] text-base font-semibold tracking-[1.6px]">Our Alumni Placed</p>
       <h2 class="text-4xl font-semibold mt-3.5 text-[#231F40]">Explore Our Alumni & Connect With Them</h2>
@@ -228,6 +228,106 @@
       <button
         class="bg-[#1b99d4] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2] flex items-center gap-[15px]">Connect
         Now <img src="../assets/img/right-arrow.png" alt=""></button>
+    </div>
+  </section>
+  <!-- Alumni Section End -->
+
+  <!-- curriculum Section -->
+  <section class="container pt-[20px] pb-[70px]">
+    <div class="text-center">
+      <p class="text-[#1B99D4] text-base font-semibold tracking-[1.6px]">A Roadmap For Success</p>
+      <h2 class="text-4xl font-semibold mt-3.5 text-[#231F40]">Our Comprehensive curriculum, Designed for professionals
+      </h2>
+    </div>
+
+    <!-- Description -->
+    <div class="my-[40px] flex items-center gap-[78px]">
+      <div>
+        <div>
+          <h2 class="text-3xl font-bold mb-[26px]">Course Description</h2>
+          <p class="text-[#6F6B80] text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
+            viverra maecenas accumsan lacus vel facilisis.</p>
+        </div>
+
+        <!-- course description -->
+        <div class="mt-[31px] flex flex-col gap-[30px]">
+          <select name="" id=""
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium text-[#595665] focus:ring-2 focus:ring-blue-500 focus:outline-none">
+            <option value="ss">
+              Unit 0 - Foundation Of Programming
+            </option>
+          </select>
+          <select name="" id=""
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium text-[#595665] focus:ring-2 focus:ring-blue-500 focus:outline-none">
+            <option value="ss">
+              Unit 1 - Data Structures and Algorithms
+            </option>
+          </select>
+          <select name="" id=""
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium text-[#595665] focus:ring-2 focus:ring-blue-500 focus:outline-none">
+            <option value="ss">
+              Unit 2 - System Design in Depth
+            </option>
+          </select>
+          <select name="" id=""
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium text-[#595665] focus:ring-2 focus:ring-blue-500 focus:outline-none">
+            <option value="ss">
+              Unit 3 - Advance Data Structures & Algorithms
+            </option>
+          </select>
+          <select name="" id=""
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium text-[#595665] focus:ring-2 focus:ring-blue-500 focus:outline-none">
+            <option value="ss">
+              Unit 4 - Electives & Specialization
+            </option>
+          </select>
+          <select name="" id=""
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium text-[#595665] focus:ring-2 focus:ring-blue-500 focus:outline-none">
+            <option value="ss">
+              Unit 5 - Work on End to End Projects in Partnership With Startups
+            </option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Apply for Counselling Form -->
+      <div
+        class="bg-white p-8 shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)] w-[800px] text-[#727695] border-b-[5px] border-[#1B99D4]">
+        <img class="" src="../assets/img/applying.jpg" alt="">
+        <form action="" class="flex flex-col gap-[30px] mt-[30px]">
+          <input
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium focus:ring-2 focus:ring-blue-500 focus:outline-none"
+            type="text" name="" id="" placeholder="Enter Full Name">
+          <input
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium focus:ring-2 focus:ring-blue-500 focus:outline-none"
+            type="email" name="" id="" placeholder="Enter email address">
+          <input
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium focus:ring-2 focus:ring-blue-500 focus:outline-none"
+            type="text" name="" id="" placeholder="Enter phone number">
+          <select name="" id=""
+            class="py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium focus:ring-2 focus:ring-blue-500 focus:outline-none">
+            <option value="ss" class="">
+              Select Course
+            </option>
+          </select>
+          <input class=" py-[17px] px-[29px] rounded-[5px] border border-[#D9D9D9] text-[21px] font-medium 
+              focus:ring-2 focus:ring-blue-500 focus:outline-none" type="text" name="" id=""
+            placeholder="Schedule Date & Time">
+        </form>
+        <p class=" text-sm pt-[11px] pb-[24px]">By submitting the form, you agree to our Terms and Conditions and our
+          Privacy
+          Policy.
+        </p>
+        <button
+          class="bg-[#1b99d4] w-full text-[16px] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2]">Apply
+          for Counselling</button>
+      </div>
+    </div>
+    <div class="flex justify-center">
+      <a class=" bg-white text-[#1B99D4] p-4 mt-10 flex items-center flex items-center justify-between w-[215px] rounded-[5px] border border-[#1B99D4] hover:bg-[#1B99D4] hover:text-white"
+        href="#">
+        <img class="w-[20px]" src="../assets/img/download-blue.png" alt=""> Download Brochure</a>
     </div>
   </section>
 </template>
