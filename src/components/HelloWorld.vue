@@ -701,7 +701,7 @@
   <!-- Frequently Asked Questions Section end -->
 
   <!-- Footer Section -->
-  <section class="py-[70px] bg-[#1B99D4] text-white">
+  <section class="pt-[70px] pb-[20px] bg-[#1B99D4] text-white">
     <div class="container flex justify-between">
       <div>
         <div>
@@ -784,5 +784,6 @@
         </div>
       </div>
     </div>
+    <p class="pt-[78px] text-center">Copyright 2025 My_Tutor | Developed By Salauddin Sakib</p>
   </section>
 </template>
