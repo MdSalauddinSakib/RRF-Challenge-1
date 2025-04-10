@@ -3,10 +3,12 @@
   <section class="">
     <!-- navbar -->
     <div class="container flex justify-between items-center my-[26px]">
+      <!-- logo -->
       <div class="flex items-center gap-2.5 cursor-pointer">
         <img src="../assets/img/logo.png" alt="">
         <h2 class="text-[22px] font-bold">My_Tutor</h2>
       </div>
+      <!-- menu -->
       <div class="flex items-center gap-9 text-base">
         <ul class="flex gap-11 text-[#424352]">
           <li class="hover:text-[#1b99d4]"><a href="#">About Us</a></li>
@@ -14,6 +16,7 @@
           <li class="hover:text-[#1b99d4]"><a href="#">Events</a></li>
           <li class="hover:text-[#1b99d4]"><a href="#">Blogs</a></li>
         </ul>
+        <!-- button -->
         <button
           class="bg-[#1b99d4] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2]">Apply
           Now</button>
@@ -325,7 +328,7 @@
       </div>
     </div>
     <div class="flex justify-center">
-      <a class=" bg-white text-[#1B99D4] p-4 mt-10 flex items-center flex items-center justify-between w-[215px] rounded-[5px] border border-[#1B99D4] hover:bg-[#1B99D4] hover:text-white"
+      <a class=" bg-white text-[#1B99D4] p-4 mt-10 flex items-center justify-between w-[215px] rounded-[5px] border border-[#1B99D4] hover:bg-[#1B99D4] hover:text-white"
         href="#">
         <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15" fill="none">
           <path
@@ -387,7 +390,7 @@
         <img class="w-2/3" src="../assets/img/symantec.png" alt="">
         <p class="text-[#646464] font-base leading-[23px]">Create authentication technology to give access, Correspond
           <br> to those stored in a
-          database of authorized
+          da ase of authorized
           users.
         </p>
         <div class="flex gap-[22px] items-center ">
@@ -595,14 +598,15 @@
             d="M50 0.425743L48.847 8.27833C45.9818 8.08911 43.8155 8.59369 42.348 9.79208C40.8805 10.9905 39.9371 12.6304 39.5178 14.7118C39.0985 16.7932 38.9937 19.0953 39.2034 21.6183H50V43H29.4549V18.78C29.4549 12.1573 31.2369 7.17455 34.8008 3.83168C38.4347 0.425742 43.501 -0.709571 50 0.425743ZM20.5451 0.425743L19.392 8.27833C16.5269 8.08911 14.3606 8.59369 12.8931 9.79208C11.4256 10.9905 10.4822 12.6304 10.0629 14.7118C9.6436 16.7932 9.53878 19.0953 9.74843 21.6183H20.5451V43H0V18.78C0 12.1573 1.78197 7.17455 5.34591 3.83168C8.97973 0.425742 14.0461 -0.709571 20.5451 0.425743Z"
             fill="#1B99D4" />
         </svg>
-        <p class="text-[#767676] text-base">“As a senior engineer I have specially reviewed the System Design content and live
+        <p class="text-[#767676] text-base">“As a senior engineer I have specially reviewed the System Design content
+          and live
           classes of My_Tutor and I
           found it more on the implementation side instead of theoretical concepts which helps to work in real-time
           environment in the organization. I would recommend My_Tutor course to get expertise in System Design.”</p>
 
-        <div class="flex items-center justify-between ">
+        <div class="flex items-center justify-between">
           <div class="flex items-center gap-6">
-            <img class="w-[78px] rounded-full" src="../assets/img/sachinImage 3.png" alt="">
+            <img class="w-[78px] h-[78px] rounded-full" src="../assets/img/sachinImage 3.png" alt="">
             <div class="flex flex-col">
               <div>
                 <p class="text-[#1B99D4] text-xl font-semibold">Prem Kumar</p>
@@ -625,5 +629,83 @@
       </div>
     </div>
   </section>
+  <!-- Thousands of stories section end -->
 
+  <!-- Frequently Asked Questions Section -->
+  <section class="container py-[70px]">
+    <div class="text-center">
+      <p class="text-[#1B99D4] text-base font-semibold tracking-[1.6px]">ASK YOUR QUESTIONS</p>
+      <h2 class="text-4xl font-semibold mt-3.5 text-[#231F40]">Frequently Asked Questions
+      </h2>
+    </div>
+
+    <!-- accordion -->
+    <div class="wrapper text-[#00000099] font-medium flex flex-col w-5/6 justify-center mx-auto">
+      <!-- tab  1 -->
+      <div class="mb-3 bg-white px-5 py-3 shadow-lg rounded-md relative">
+        <input type="radio" name="faq" id="faq1" class="appearance-none peer">
+        <label for="faq1"
+          class="flex items-center text-lg font-semibold cursor-pointer after:absolute after:content-['+'] after:left-5 after:text-2xl after:text-[#1B99D4] peer-checked:after:transform peer-checked:after:rotate-45">
+          <h3 class="px-5 text-xl text-[#212121]">How to enroll for a Course?</h3>
+        </label>
+        <div class=" mt-5 h-0 overflow-hidden transition ease-in-out duration-500 peer-checked:h-full">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, ipsa in exercitationem animi nobis iste
+            fuga natus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda temporibus deserunt odit
+            asperiores ipsa accusantium iusto eos tempore vel distinctio, aspernatur dolore numquam. Quam iure
+            perspiciatis, commodi distinctio cupiditate eaque.</p>
+        </div>
+      </div>
+
+      <!-- tab  2 -->
+      <div class="mb-3 bg-white px-5 py-3 shadow-lg rounded-md relative">
+        <input type="radio" name="faq" id="faq2" class="appearance-none peer">
+        <label for="faq2"
+          class="flex items-center text-lg font-semibold cursor-pointer after:absolute after:content-['+']   after:left-5 after:text-2xl after:text-[#1B99D4]   peer-checked:after:transform peer-checked:after:rotate-45">
+          <h3 class="px-5 text-xl text-[#212121]">Can I get the recordings of my previous lectures?</h3>
+        </label>
+        <div class="mt-5 h-0 overflow-hidden transition ease-in-out duration-500 peer-checked:h-full">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus tempore consequuntur repellat rerum,
+            ipsa aperiam, non quam iste quae iusto omnis illo earum eveniet, unde animi odit esse iure pariatur?</p>
+        </div>
+      </div>
+
+      <!-- tab  3 -->
+      <div class="mb-3 bg-white px-5 py-3 shadow-lg rounded-md relative">
+        <input type="radio" name="faq" id="faq3" class="appearance-none peer">
+        <label for="faq3"
+          class="flex items-center text-lg font-semibold cursor-pointer after:absolute after:content-['+'] after:left-5 after:text-2xl after:text-[#1B99D4]   peer-checked:after:transform peer-checked:after:rotate-45">
+          <h3 class="px-5 text-xl text-[#212121]">Who would be the instructor for enrolled course?</h3>
+        </label>
+        <div class="mt-5 h-0 overflow-hidden transition ease-in-out duration-500 peer-checked:h-full">
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, vero rem possimus voluptatum aliquam
+            quaerat explicabo tempora corporis tempore sapiente.</p>
+        </div>
+      </div>
+
+      <!-- tab  4 -->
+      <div class="mb-3 bg-white px-5 py-3 shadow-lg rounded-md relative">
+        <input type="radio" name="faq" id="faq4" class="appearance-none peer">
+        <label for="faq4"
+          class="flex items-center text-lg font-semibold cursor-pointer after:absolute after:content-['+'] after:left-5 after:text-2xl after:text-[#1B99D4]   peer-checked:after:transform peer-checked:after:rotate-45">
+          <h3 class="px-5 text-xl text-[#212121]">What kind of placement support will be given post completion of
+            program?</h3>
+        </label>
+        <div class="mt-5 h-0 overflow-hidden transition ease-in-out duration-500 peer-checked:h-full">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid omnis eum dolores cumque quas, vero
+            aliquam neque corrupti, ut vel, minus vitae nostrum. Sunt atque praesentium, iste laboriosam expedita quo ut
+            obcaecati inventore officiis alias maxime! Sapiente, placeat iure. Optio.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Frequently Asked Questions Section end -->
+
+   <!-- Footer Section -->
+    <section class="container py-[70px]">
+      <div>
+        <div>
+
+        </div>
+      </div>
+    </section>
 </template>
