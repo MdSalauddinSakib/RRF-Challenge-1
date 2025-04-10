@@ -150,7 +150,7 @@
           </div>
         </div>
         <div>
-          <h2 class="text-xl font-semibold leading-8 mt-1.5">Shaumaya Qha</h2>
+          <h2 class="text-xl font-semibold leading-8  ">Shaumaya Qha</h2>
           <p class="leading-8 text-base">Software Engineer</p>
           <p class="text-[#4D607D] text-base mt-2.5 leading-6">Apart from regular live classes, I was assigned with a
             Mentor
@@ -176,7 +176,7 @@
           </div>
         </div>
         <div>
-          <h2 class="text-xl font-semibold leading-8 mt-1.5">Subhangi Duhan</h2>
+          <h2 class="text-xl font-semibold leading-8  ">Subhangi Duhan</h2>
           <p class="leading-8 text-base">Software Researcher</p>
           <p class="text-[#4D607D] text-base mt-2.5 leading-6">My focus and expectations was
             more into System Design and I
@@ -204,7 +204,7 @@
           </div>
         </div>
         <div>
-          <h2 class="text-xl font-semibold leading-8 mt-1.5">Paras Yadav</h2>
+          <h2 class="text-xl font-semibold leading-8  ">Paras Yadav</h2>
           <p class="leading-8 text-base">Software Tester</p>
           <p class="text-[#4D607D] text-base mt-2.5 leading-6">Consistency is the key, that I have
             learned from my Mentor at
@@ -424,7 +424,7 @@
               d="M22.9531 4.0625H13.9141V2.4375C13.9141 2.32578 13.8227 2.23438 13.7109 2.23438H12.2891C12.1773 2.23438 12.0859 2.32578 12.0859 2.4375V4.0625H3.04688C2.59746 4.0625 2.23438 4.42559 2.23438 4.875V18.0781C2.23438 18.5275 2.59746 18.8906 3.04688 18.8906H12.0961V19.7031L7.91172 22.4479C7.81777 22.5088 7.79238 22.6332 7.85332 22.7271L8.62266 23.9256V23.9281C8.68359 24.0221 8.81055 24.0475 8.90449 23.9865L13 21.3002L17.0955 23.9865C17.1895 24.0475 17.3164 24.0221 17.3773 23.9281V23.9256L18.1467 22.7271C18.2076 22.6332 18.1797 22.5088 18.0883 22.4479L13.9141 19.7107V18.8906H22.9531C23.4025 18.8906 23.7656 18.5275 23.7656 18.0781V4.875C23.7656 4.42559 23.4025 4.0625 22.9531 4.0625ZM21.9375 17.0625H4.0625V5.89062H21.9375V17.0625Z"
               fill="#1B99D4" />
           </svg>
-          <p class="text-[#646464]">350+ Live sessions</p>
+          <p class="text-[#646464]">15+ Industry Projects</p>
         </div>
         <div class="flex gap-2 items-center text-base">
           <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
@@ -435,7 +435,7 @@
               d="M20.4344 17.1107H18.9668C18.8246 17.1107 18.6901 17.1844 18.6139 17.3063C18.2914 17.8166 17.9156 18.2889 17.484 18.7205C16.7401 19.4645 15.8742 20.0484 14.9119 20.4547C13.9141 20.8762 12.8553 21.0895 11.7635 21.0895C10.6692 21.0895 9.61037 20.8762 8.61506 20.4547C7.65275 20.0484 6.78693 19.4645 6.04299 18.7205C5.29904 17.9766 4.71506 17.1107 4.30881 16.1484C3.88732 15.1531 3.67404 14.0943 3.67404 13C3.67404 11.9057 3.88732 10.8494 4.30881 9.85157C4.71506 8.88926 5.29904 8.02344 6.04299 7.2795C6.78693 6.53555 7.65275 5.95157 8.61506 5.54532C9.61037 5.12383 10.6717 4.91055 11.7635 4.91055C12.8578 4.91055 13.9166 5.12383 14.9119 5.54532C15.8742 5.95157 16.7401 6.53555 17.484 7.2795C17.9156 7.71114 18.2914 8.1834 18.6139 8.69376C18.6901 8.81563 18.8246 8.88926 18.9668 8.88926H20.4344C20.6096 8.88926 20.7213 8.70645 20.6426 8.55157C18.9871 5.2584 15.6305 3.11797 11.8828 3.07481C6.39592 3.00626 1.8383 7.49786 1.82814 12.9797C1.81799 18.4717 6.26896 22.9277 11.761 22.9277C15.5569 22.9277 18.9694 20.7797 20.6426 17.4484C20.7213 17.2936 20.607 17.1107 20.4344 17.1107Z"
               fill="#1B99D4" />
           </svg>
-          <p class="text-[#646464]">350+ Live sessions</p>
+          <p class="text-[#646464]">Life time accessibility</p>
         </div>
         <div class="flex gap-2 items-center text-base">
           <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
@@ -443,7 +443,7 @@
               d="M21.6667 19.5C22.8583 19.5 23.8225 18.525 23.8225 17.3333L23.8333 5.41667C23.8333 4.225 22.8583 3.25 21.6667 3.25H4.33333C3.14167 3.25 2.16667 4.225 2.16667 5.41667V17.3333C2.16667 18.525 3.14167 19.5 4.33333 19.5H0C0 20.6917 0.975 21.6667 2.16667 21.6667H23.8333C25.025 21.6667 26 20.6917 26 19.5H21.6667ZM4.33333 5.41667H21.6667V17.3333H4.33333V5.41667ZM13 20.5833C12.4042 20.5833 11.9167 20.0958 11.9167 19.5C11.9167 18.9042 12.4042 18.4167 13 18.4167C13.5958 18.4167 14.0833 18.9042 14.0833 19.5C14.0833 20.0958 13.5958 20.5833 13 20.5833Z"
               fill="#1B99D4" />
           </svg>
-          <p class="text-[#646464]">350+ Live sessions</p>
+          <p class="text-[#646464]">Live project experience</p>
         </div>
       </div>
 
@@ -496,6 +496,87 @@
           <p class="text-[#777D8C] text-lg">Virtual Hall</p>
         </div>
       </div>
+    </div>
+  </section>
+  <!-- Next Cohort Details Section end -->
+
+  <!-- DISCOVER OUR MENTORS Section -->
+  <section class="container pt-[20px] pb-[70px]">
+    <div class="text-center">
+      <p class="text-[#1B99D4] text-base font-semibold tracking-[1.6px]">DISCOVER OUR MENTORS</p>
+      <h2 class="text-4xl font-semibold mt-3.5 text-[#231F40]">We have Industry Experts as Mentor who guide you with
+        Career Planning & Interview Preparation
+      </h2>
+    </div>
+
+    <!-- cart -->
+    <div class="flex justify-between mt-[57px]">
+      <div class="max-w-sm mx-auto bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)] overflow-hidden">
+        <div>
+          <img class="w-full h-68 object-cover" src="../assets/img/sachinImage 1.png" alt="">
+        </div>
+        <div class="flex flex-col gap-8 p-4 mt-5">
+          <div class="flex items-center gap-12">
+            <div>
+              <h2 class="text-xl font-semibold leading-8">Sachin Sharma</h2>
+              <p class="text-[#4D607D] text-base mt-2.5 leading-1">Managing Director</p>
+            </div>
+            <div>
+              <img src="../assets/img/Microsoft-logo.png" alt="">
+            </div>
+          </div>
+          <div class="flex gap-2.5 items-center mt-3.5">
+            <img src="../assets/img/linkedin.png" alt="">
+            <a href="#" class="text-[#006DD9] text-lg">View Profile</a>
+          </div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)] overflow-hidden">
+        <div>
+          <img class="w-full h-68 object-cover" src="../assets/img/sachinImage 2.png" alt="">
+        </div>
+        <div class="flex flex-col gap-8 p-4 mt-5">
+          <div class="flex items-center gap-12">
+            <div>
+              <h2 class="text-xl font-semibold leading-8">Santosh Kumar
+                Mishra</h2>
+              <p class="text-[#4D607D] text-base mt-2.5 leading-1">Managing Director</p>
+            </div>
+            <div>
+              <img src="../assets/img/Microsoft-logo.png" alt="">
+            </div>
+          </div>
+          <div class="flex gap-2.5 items-center mt-3.5">
+            <img src="../assets/img/linkedin.png" alt="">
+            <a href="#" class="text-[#006DD9] text-lg">View Profile</a>
+          </div>
+        </div>
+      </div>
+      <div class="max-w-sm mx-auto bg-white rounded-xl shadow-[1px_5px_50px_0px_rgba(84,99,122,0.10)] overflow-hidden">
+        <div>
+          <img class="w-full h-68 object-cover" src="../assets/img/sachinImage 3.png" alt="">
+        </div>
+        <div class="flex flex-col gap-8 p-4 mt-5">
+          <div class="flex items-center gap-12">
+            <div>
+              <h2 class="text-xl font-semibold leading-8">Prem Kumar</h2>
+              <p class="text-[#4D607D] text-base mt-2.5 leading-1">Mentorship</p>
+            </div>
+            <div>
+              <img src="../assets/img/Microsoft-logo.png" alt="">
+            </div>
+          </div>
+          <div class="flex gap-2.5 items-center mt-3.5">
+            <img src="../assets/img/linkedin.png" alt="">
+            <a href="#" class="text-[#006DD9] text-lg">View Profile</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="text-center mt-[107px]">
+      <a href="#"
+        class="bg-[#1b99d4] text-[16px] text-white font-semibold py-2.5 px-5 rounded-[5px] cursor-pointer hover:bg-[#1b99d4d2]">More
+        Mentor Details</a>
     </div>
   </section>
 </template>
