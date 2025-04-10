@@ -579,4 +579,51 @@
         Mentor Details</a>
     </div>
   </section>
+  <!-- DISCOVER OUR MENTORS Section end -->
+
+  <!-- Thousands of stories section -->
+  <section class="container py-[70px]">
+    <div class="flex justify-between gap-[78px]">
+      <div class="w-1/2">
+        <h2 class="text-[48px] font-bold">Thousands of stories <br> of growth</h2>
+        <p class="text-[#00000099]">Find out how our Learners transformed their careers after <br> learning witH us.</p>
+      </div>
+
+      <div class="w-1/2 flex flex-col gap-6 ">
+        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="43" viewBox="0 0 50 43" fill="none">
+          <path
+            d="M50 0.425743L48.847 8.27833C45.9818 8.08911 43.8155 8.59369 42.348 9.79208C40.8805 10.9905 39.9371 12.6304 39.5178 14.7118C39.0985 16.7932 38.9937 19.0953 39.2034 21.6183H50V43H29.4549V18.78C29.4549 12.1573 31.2369 7.17455 34.8008 3.83168C38.4347 0.425742 43.501 -0.709571 50 0.425743ZM20.5451 0.425743L19.392 8.27833C16.5269 8.08911 14.3606 8.59369 12.8931 9.79208C11.4256 10.9905 10.4822 12.6304 10.0629 14.7118C9.6436 16.7932 9.53878 19.0953 9.74843 21.6183H20.5451V43H0V18.78C0 12.1573 1.78197 7.17455 5.34591 3.83168C8.97973 0.425742 14.0461 -0.709571 20.5451 0.425743Z"
+            fill="#1B99D4" />
+        </svg>
+        <p class="text-[#767676] text-base">“As a senior engineer I have specially reviewed the System Design content and live
+          classes of My_Tutor and I
+          found it more on the implementation side instead of theoretical concepts which helps to work in real-time
+          environment in the organization. I would recommend My_Tutor course to get expertise in System Design.”</p>
+
+        <div class="flex items-center justify-between ">
+          <div class="flex items-center gap-6">
+            <img class="w-[78px] rounded-full" src="../assets/img/sachinImage 3.png" alt="">
+            <div class="flex flex-col">
+              <div>
+                <p class="text-[#1B99D4] text-xl font-semibold">Prem Kumar</p>
+                <div class="text-yellow-500">
+                  <i class=" fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-regular fa-star"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex gap-2.5 items-center mt-3.5">
+            <img src="../assets/img/linkedin.png" alt="">
+            <a href="#" class="text-[#006DD9] text-lg">View Profile</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 </template>
